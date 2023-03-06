@@ -20,7 +20,7 @@ import { PorRegionComponent } from './pages/por-region/por-region.component';
     VerPaisComponent,
     PorRegionComponent
   ],
-  imports: [
+  imports: [ 
     CommonModule
   ]
 })

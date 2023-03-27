@@ -28,4 +28,9 @@ export class PorPaisComponent {
       this.hayError = true;
     });
   }
+
+  sugerencias(termino: string){
+    this.hayError = false;
+    // Todo Crear sugerencias
+  }
 }
